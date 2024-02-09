@@ -1,6 +1,6 @@
-package com.example.spring.authorizationserver.security
+package com.example.authorizationserver.security
 
-import com.example.spring.authorizationserver.user.User
+import com.example.authorizationserver.user.User
 import jakarta.annotation.PostConstruct
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory

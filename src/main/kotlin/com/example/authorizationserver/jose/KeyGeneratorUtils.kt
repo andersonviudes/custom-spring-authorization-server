@@ -1,4 +1,4 @@
-package com.example.spring.authorizationserver.jose
+package com.example.authorizationserver.jose
 
 import java.math.BigInteger
 import java.security.KeyPair

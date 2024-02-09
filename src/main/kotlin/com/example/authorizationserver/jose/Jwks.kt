@@ -1,4 +1,4 @@
-package com.example.spring.authorizationserver.jose
+package com.example.authorizationserver.jose
 
 import com.nimbusds.jose.jwk.Curve
 import com.nimbusds.jose.jwk.ECKey

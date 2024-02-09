@@ -1,6 +1,6 @@
-package com.example.spring.authorizationserver.config
+package com.example.authorizationserver.config
 
-import com.example.spring.authorizationserver.security.OidcUserInfoService
+import com.example.authorizationserver.security.OidcUserInfoService
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.security.core.Authentication

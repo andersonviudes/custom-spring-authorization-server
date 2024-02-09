@@ -1,6 +1,6 @@
-package com.example.spring.authorizationserver.config
+package com.example.authorizationserver.config
 
-import com.example.spring.authorizationserver.jose.Jwks
+import com.example.authorizationserver.jose.Jwks
 import com.nimbusds.jose.jwk.JWKSelector
 import com.nimbusds.jose.jwk.JWKSet
 import com.nimbusds.jose.jwk.source.JWKSource
