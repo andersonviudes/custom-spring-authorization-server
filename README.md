@@ -153,12 +153,6 @@ For testing this authorization server with client- or server applications please
 
 This includes a demo OAuth client and resource server.
 
-## Feedback
-
-Any feedback on this project is highly appreciated.
-
-Just email _andreas.falk(at)novatec-gmbh.de_ or contact me via Twitter (_@andifalk_).
-
 ## License
 
 Apache 2.0 licensed
